@@ -16,5 +16,7 @@
     "git.enabled": false,
     // Disable telemetry
     "telemetry.enableTelemetry": false,
-    "telemetry.enableCrashReporter": false
+    "telemetry.enableCrashReporter": false,
+    // Go
+    "go.formatOnSave": false
 }
